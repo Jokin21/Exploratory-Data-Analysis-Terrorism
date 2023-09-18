@@ -19,6 +19,8 @@ A comprehensive report detailing our findings, insights, and recommendations.
 Visualizations and maps illustrating trends, high-risk regions, and attack characteristics.
 Identification of potential contributing factors to terrorism.
 Insights that can inform policy decisions, resource allocation, and counterterrorism strategies.
+
+
 Conclusion:
 
 Exploratory Data Analysis on the terrorism dataset is not only an exercise in data exploration but also a critical endeavor to enhance our understanding of global security challenges. By uncovering patterns, trends, and factors contributing to terrorism, this project seeks to contribute valuable insights that aid in the pursuit of a safer and more secure world.
